@@ -1,0 +1,7 @@
+.courses{
+    display: flex;
+}
+.cart-area{
+    border-left: 1px solid lightgray;
+    text-align: center;
+}

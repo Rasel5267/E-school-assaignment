@@ -1,0 +1,21 @@
+.user-dtl{
+    float: left;
+}
+.card{
+    height: 430px;
+    margin: 15px 0;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253);
+}
+.overflow{
+    overflow:hidden;
+}
+.overflow img{
+    width: 341px;
+    transform: scale(1);
+    transition: all 0.5s ease;
+}
+.overflow img:hover{
+    transform: scale(1.8);
+}
